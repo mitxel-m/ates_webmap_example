@@ -1,4 +1,4 @@
-#ATES webmap example
+# ATES webmap example
 
 This Webmap example combines tiles from [IGN](https://www.ign.es) with ATES data (Avalanche Exposure Terrain Scale) from [Montaña Segura](https://montanasegura.com/cartografia-ates-en-el-macizo-de-infiernos/) and it is made for development and test purposes.
 
